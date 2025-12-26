@@ -1,0 +1,1 @@
+{ "name": "staqlt-nuitka-optimizer", "version": "1.0.0", "description": "Automation wrapper for Python-to-C compilation using Nuitka", "main": "compile.js", "scripts": { "start": "node compile.js", "setup": "pip install nuitka zstandard" }, "dependencies": {}, "author": "staqlt Senior Solution Architect" }
